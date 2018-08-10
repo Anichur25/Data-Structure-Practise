@@ -1,15 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-bool compare(int a,int b){
-
-   if(a < 0 && b < 0){
-     return a > b;
-   }
-
-   return false;
-}
-
 int main(){
 
   int testCases,Size;
