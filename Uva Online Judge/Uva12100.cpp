@@ -1,21 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-bool compare(pair<int,int> a, pair<int,int> b){
-
-    if(a.first > b.first)
-        return true;
-    else if(a.first == b.first)
-        return true;
-    else false;
-}
-
-
 int main(){
 
   int testCases;
   int priority;
-  int jobNo;
   int n,m;
 
   scanf("%d",&testCases);
