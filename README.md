@@ -1,1 +1,1 @@
-# DataStructure-Practise
+Online Judge Solutions
